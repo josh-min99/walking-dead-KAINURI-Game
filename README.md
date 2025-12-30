@@ -130,9 +130,6 @@ Assets/
 **Josh Min** (louisjo@kaist.ac.kr)
 - KAIST 학생 프로젝트
 
-## 라이센스
-
-이 프로젝트는 포트폴리오 목적으로 개발되었습니다.
 
 ---
 
